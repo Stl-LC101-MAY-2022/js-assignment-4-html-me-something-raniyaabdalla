@@ -45,3 +45,21 @@ body {
     width: 30%;
   }
 
+.figcaption{
+    text-align: center;
+    color: blue;
+    font-weight: 10;
+    padding-bottom: 50px;
+  }
+  .ol
+  {
+    color: rgb(147, 122, 170);
+    padding-right: 30px;
+  }
+
+  .imges {
+    margin-right: 150px;
+  }
+  #programLanguges {
+    color: yellow;
+  }
