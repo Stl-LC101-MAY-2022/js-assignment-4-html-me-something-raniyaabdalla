@@ -1,4 +1,26 @@
 /* Write your CSS here! */
+
+.mainHeading {
+  color: red;
+}
+
+.funParagraph {
+  color: green;
+}
+section {
+	margin: 1.875em 0;
+}
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
+}
+
 h1 {
     color:whitesmoke;
     text-align: center;
